@@ -1,0 +1,23 @@
+commit 537babf5ebf14916a18c91f8c6741616006d662b
+Author: benjaminjenkin <ben@benjenkin.com.au>
+Date:   Thu Apr 5 09:06:15 2018 +0000
+
+    added line to gitignore
+
+commit 6eaf11a857200ca9e0b318176408c522e2fe8590
+Author: benjaminjenkin <ben@benjenkin.com.au>
+Date:   Thu Apr 5 08:59:32 2018 +0000
+
+    added gitignore
+
+commit 4c102ceca360ace5b48eca1babc8409e2349944a
+Author: benjaminjenkin <ben@benjenkin.com.au>
+Date:   Thu Apr 5 08:50:40 2018 +0000
+
+    added two files
+
+commit 7f7f9c36fa8ac70799a5b7b83c4abace1d7e0fba
+Author: benjaminjenkin <ben@benjenkin.com.au>
+Date:   Thu Apr 5 08:44:39 2018 +0000
+
+    added readme.txt
